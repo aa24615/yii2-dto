@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-dto",
+    "name": "zyan/yii2-dto",
     "description": "The dto layer for the Yii framework",
     "type": "library",
     "license": "MIT",
